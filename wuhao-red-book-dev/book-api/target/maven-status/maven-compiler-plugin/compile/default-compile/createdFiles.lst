@@ -1,0 +1,12 @@
+com/wuhao/intercepter/PassportInterceptor.class
+com/wuhao/controller/FileController.class
+com/wuhao/MinIOConfig.class
+com/wuhao/InterceptorConfig.class
+com/wuhao/controller/HelloController.class
+com/wuhao/intercepter/UserTokenInterceptor.class
+com/wuhao/Knife4jConfig.class
+com/wuhao/Application.class
+com/wuhao/controller/PassportController.class
+com/wuhao/controller/VlogController.class
+com/wuhao/controller/BaseController.class
+com/wuhao/controller/UserInfoController.class

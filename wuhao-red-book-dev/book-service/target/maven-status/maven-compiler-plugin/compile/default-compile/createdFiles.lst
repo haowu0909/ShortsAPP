@@ -1,0 +1,5 @@
+com/wuhao/base/BaseInfoProperties.class
+com/wuhao/service/UserService.class
+com/wuhao/service/impl/UserServiceImpl.class
+com/wuhao/service/impl/VlogServiceImpl.class
+com/wuhao/service/VlogService.class

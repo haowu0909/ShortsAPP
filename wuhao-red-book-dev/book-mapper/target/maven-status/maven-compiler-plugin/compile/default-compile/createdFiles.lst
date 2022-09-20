@@ -1,0 +1,7 @@
+com/wuhao/my/mapper/MyMapper.class
+com/wuhao/mapper/UsersMapper.class
+com/wuhao/mapper/FansMapper.class
+com/wuhao/mapper/CommentMapper.class
+com/wuhao/mapper/VlogMapperCustom.class
+com/wuhao/mapper/MyLikedVlogMapper.class
+com/wuhao/mapper/VlogMapper.class

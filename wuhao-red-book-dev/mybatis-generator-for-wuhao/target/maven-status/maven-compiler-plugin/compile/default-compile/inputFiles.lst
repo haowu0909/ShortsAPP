@@ -1,0 +1,12 @@
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/my/mapper/mapper/MyMapper.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/pojo/Fans.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/pojo/MyLikedVlog.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/mybatis/utils/GeneratorDisplay.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/mapper/CommentMapper.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/mapper/UsersMapper.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/pojo/Users.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/pojo/Comment.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/mapper/MyLikedVlogMapper.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/mapper/VlogMapper.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/mapper/FansMapper.java
+/Users/wuhao/Desktop/springboot实战项目/wuhao-red-book-dev/mybatis-generator-for-wuhao/src/main/java/com/wuhao/pojo/Vlog.java
